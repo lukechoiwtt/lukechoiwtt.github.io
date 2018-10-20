@@ -207,7 +207,10 @@ header#top{
 	transition: opacity 0.2s linear;
 }
 
-
+#info{
+	margin-top: 50px;
+	margin-bottom: 50px; 
+}
 #about{
 	/*top: 50% !important; */
 	/*height: 100%;*/
@@ -307,6 +310,9 @@ header#top{
 }
 #footer{
 	text-align: center;
+}
+i{
+	margin-bottom: 20px;
 }
 @keyframes fadedown {
 

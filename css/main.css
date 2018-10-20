@@ -89,8 +89,8 @@ header#top{
 }
 
 .aboutItem:hover{
-	background-color: #119da4;
-	border: 1px solid #119da4;
+	background-color: #673AB7;
+	border: 1px solid #673AB7;
 	transition: 0.2s;
 }
 .aboutItem a{
@@ -273,7 +273,7 @@ header#top{
   /*width: 100%;*/
   opacity: 0;
   transition: .5s ease;
-  background-color: rgba(19, 80, 91, 0.7); 
+  background-color: rgba(103, 58, 183, 0.5); 
 }
 
 #photoHeader{
